@@ -12,7 +12,7 @@ In ra kết quả giai thừa của n.
 
 ---
 
-## Ví dụ
+## Ví dụ.
 
 ### Input
 
