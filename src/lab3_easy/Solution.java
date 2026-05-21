@@ -5,8 +5,8 @@ import java.util.*;
 class Result {
     public static List<Integer> breakingRecords(List<Integer> scores) {
 
-        int maxRecord = scores.get(0); //lấy điểm đầu tiên làm kỉ lục cao nhất
-        int minRecord = scores.get(0); //lấy điểm đầu tiên làm kỉ lục thấp nhất
+        int maxRecord = scores.get(0); //lấy điểm đầu tiên làm kỉ lục cao nhất.
+        int minRecord = scores.get(0); //lấy điểm đầu tiên làm kỉ lục thấp nhất.
         int maxCount = 0;
         int minCount = 0;
 
