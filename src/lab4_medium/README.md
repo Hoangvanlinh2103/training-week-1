@@ -1,4 +1,4 @@
-# Lab 3 – Extra Long Factorials
+# Lab 4 – Extra Long Factorials
 
 ## Đề bài
 
