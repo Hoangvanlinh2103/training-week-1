@@ -9,7 +9,7 @@ class Result {
         // Khởi tạo BigInteger với giá trị 1
         BigInteger factorial = BigInteger.ONE;
 
-        // Vòng lặp tính giai thừa từ 1 đến n
+        // Vòng lặp tính giai thừa từ 1 đếnn n
         for (int i = 1; i <= n; i++) {
             // Nhân dồn và gán lại vào biến factorial
             factorial = factorial.multiply(BigInteger.valueOf(i));
